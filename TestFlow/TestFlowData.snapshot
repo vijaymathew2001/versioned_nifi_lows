@@ -14,8 +14,8 @@
     "name" : "TestProcessGroup",
     "outputPorts" : [ ],
     "position" : {
-      "x" : 355.0,
-      "y" : 142.0
+      "x" : 430.0,
+      "y" : 301.0
     },
     "processGroups" : [ ],
     "processors" : [ {
@@ -26,7 +26,7 @@
         "group" : "org.apache.nifi",
         "version" : "1.7.1"
       },
-      "comments" : "",
+      "comments" : "Logging",
       "componentType" : "PROCESSOR",
       "concurrentlySchedulableTaskCount" : 1,
       "executionNode" : "ALL",
@@ -35,8 +35,8 @@
       "name" : "LogAttribute",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : 694.0,
-        "y" : 144.0
+        "x" : 1050.0,
+        "y" : 232.0
       },
       "properties" : {
         "character-set" : "windows-1252",
