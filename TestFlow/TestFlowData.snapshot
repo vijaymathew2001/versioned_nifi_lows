@@ -26,7 +26,7 @@
         "group" : "org.apache.nifi",
         "version" : "1.7.1"
       },
-      "comments" : "Logging",
+      "comments" : "Logging1",
       "componentType" : "PROCESSOR",
       "concurrentlySchedulableTaskCount" : 1,
       "executionNode" : "ALL",
